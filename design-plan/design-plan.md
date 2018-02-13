@@ -33,7 +33,6 @@ I will create 4 php pages (home.php, photos.php, trails.php, activities.php) and
 I will use php includes for the navigation bar, page array and footer. Each file would contain an id assigned to a variable (current_page) and the php includes(init.php) would contain the array of all the pages.
 In the body of my file, I would add php includes(header.php) for the navigation bar. In my header.php, I will create a for loop that returns the hyperlink of the page based on its assigned id. At the end of my pages, I will add php includes(footer.php) to include contact information in my footer.
 
-[Write your pseudocode for your user defined function.]
 
 User defined function will be in trails.php and activities.php.
 
