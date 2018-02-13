@@ -39,26 +39,18 @@ User defined function will be in trails.php and activities.php.
 
 <?php
 assign array of elements to a variable called $info
-
 make a function called print_info with $an_info as a parameter.
 echo a list element of $an_info
-
 <body>
 create a foreach loop instead of repeating codes.
 In the for each loop, set the variable of the array ($info) to a key called $i, then print the key $i
 </body>
 ?>
 
-
 In activities.php:
 <?php
-
 assign array of elements (days) to a variable called $week
-
 make a function called print_schedule with $day as a parameter/key.
-
 inside the function, create an array with details of each day, assign the array to a variable called $time.
-
 create a conditional that prints/echo the time to each corresponding day.
-
 ?>
