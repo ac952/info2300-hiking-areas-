@@ -19,8 +19,8 @@ My sketches meet the need of my personal because it is simple and intuitive. Sin
 
 [3. Author detailed wireframes that will become the design that you program for the final milestone.]
 
-![](Scan 1.jpeg)
-![](Scan 2.jpeg)
+![](Scan1.jpeg)
+![](Scan2.jpeg)
 
 ## 4. Coding Plan & Pseudocode
 
