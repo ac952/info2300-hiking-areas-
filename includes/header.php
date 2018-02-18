@@ -1,14 +1,21 @@
 <header>
-  <h1 id="title">Lab 2</h1>
+  <h1 id="title"></h1>
+  <!-- http://www.visitithaca.com -->
+
 
   <nav id="menu">
     <ul>
-      <!-- create a foreach loop -->
-      <!-- assign pages array as $page and store that as a key $page_name -->
-      <!-- make a conditional that if the current page id is equal to $page_id -->
-      <!-- if true, set id to the current page -->
-      <!-- else id is empty -->
-      <!-- echo the hyperlink id to the name pf the php file -->
+      <?php
+      foreach($pages as $i => $value) {
+        if ($current_page_id == $i) {
+          $id =  "id='current_page'";
+        } else {
+          $id = "";
+        }
+        echo "<li><a ". $id. " href='". $i. ".php'>$value</a></li>";
+      }
+       ?>
+       <img id = "ithaca" alt="ithaca" src="images/ithaca.png"/>
     </ul>
   </nav>
 
