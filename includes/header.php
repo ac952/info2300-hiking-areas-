@@ -1,8 +1,6 @@
 <header>
   <h1 id="title"></h1>
   <!-- http://www.visitithaca.com -->
-
-
   <nav id="menu">
     <ul>
       <?php

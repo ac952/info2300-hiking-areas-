@@ -16,7 +16,8 @@
 </head>
 
 <body>
-  <?php include("includes/header.php")?>
+  <?php include("includes/header.php");?>
+  <h1 class="titleHeading">WELCOME TO ITHACA</h1>
   <!-- create an array of the photos in the slideshow -->
   <?php include("includes/footer.php"); ?>
 </body>

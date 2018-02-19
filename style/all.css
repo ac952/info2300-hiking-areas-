@@ -9,7 +9,7 @@ h1, a {
 
 header {
   padding: 10px;
-
+  padding-bottom: 100px;
 }
 
 #menu {
@@ -31,9 +31,51 @@ header {
   font-weight: bold;
 }
 
+#menu #current_page {
+  padding: 10px;
+  border: 3px solid gray;
+}
+
 #ithaca {
   position: absolute;
   top:0px;
   right: 50px;
   width: 200px;
+}
+
+.titleHeading {
+  text-align: center;
+  font-weight: lighter;
+}
+
+#photoFormat {
+  width: 300px;
+  margin-top: 30px;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+#activity{
+  margin-top: 70px;
+}
+
+#firstAct{
+  width: 30%;
+  float:left;
+  margin-left: 20px;
+}
+
+#secondAct {
+  width: 30%;
+  margin-left: 50px;
+  float:left;
+
+}
+
+#schedule {
+  margin-top: 50px;
+  width: 30%;
+  margin-left: 50px;
+  float:left;
 }

@@ -20,7 +20,8 @@
 </head>
 
 <body>
-  <?php include("includes/header.php")?>
+  <?php include("includes/header.php");?>
+  <h1 class="titleHeading">POPULAR TRAILS</h1>
   <!-- In the body:
   create a foreach loop instead of repeating codes.
   In the for each loop, set the variable of the array ($info) to a key called $i, then print the key $i -->
