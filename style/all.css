@@ -9,19 +9,17 @@ h1, a {
 
 header {
   padding: 10px;
-  padding-bottom: 100px;
+  padding-bottom: 50px;
 }
 
 #menu {
   display:inline;
-
 }
 
 #menu ul {
   margin: 0;
   padding: 0;
   list-style: none;
-
 }
 
 #menu li {
@@ -70,7 +68,6 @@ header {
   width: 30%;
   margin-left: 50px;
   float:left;
-
 }
 
 #schedule {
@@ -78,4 +75,35 @@ header {
   width: 30%;
   margin-left: 50px;
   float:left;
+}
+
+#waterfall{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 600px;
+}
+
+#trail1, #trail2 {
+  float:left;
+  display: block;
+  margin-bottom: 30px;
+  margin-left: 150px;
+}
+
+#text1,#text2{
+  float:right;
+  margin-right: 130px;
+  width:50%;
+}
+
+#img1, #img2{
+  width:300px;
+  height: 180px;
+
+}
+
+#trailspace{
+  margin-top: 60px;
 }
