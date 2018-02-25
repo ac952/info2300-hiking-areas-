@@ -54,3 +54,9 @@ make a function called print_schedule with $day as a parameter/key.
 inside the function, create an array with details of each day, assign the array to a variable called $time.
 
 create a conditional that prints/echo the time to each corresponding day.
+
+## 5. Changes to design plan
+
+I did not include a slideshow in the homepage because I thought the photo
+gallery was enough. In activities.php, I made a title appear when the user hovered over the images. I also got rid of the footer containing my email
+address because it was not useful for the site.
