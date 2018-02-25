@@ -12,8 +12,8 @@
         }
         echo "<li><a ". $id. " href='". $i. ".php'>$value</a></li>";
       }
-       ?>
-       <img id = "ithaca" alt="ithaca" src="images/ithaca.png"/>
+      ?>
+      <img id = "ithaca" alt="ithaca" src="images/ithaca.png"/>
     </ul>
   </nav>
 

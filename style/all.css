@@ -144,7 +144,6 @@ td{
 
 #indexbox{
   background-color: white;
-
   width: 250px;
   opacity: 0.55;
   padding-bottom:20px;
@@ -154,4 +153,53 @@ td{
   position: absolute;
   top: 600px;
   left: 100px;
+}
+
+@media only screen and (max-width: 700px) {
+  #ithaca{
+    display: none;
+  }
+
+  #photoFormat{
+    width: 300px;
+    height: 300px;
+    margin: auto;
+  }
+
+  #firstAct, #secondAct{
+    width: 100%;
+    float:left;
+    margin: auto;
+  }
+
+  #trail1, #trail2 {
+    float:left;
+    display: block;
+    margin:auto;
+    width: 100%;
+  }
+
+  #img1, #img2 {
+    width: 350px;
+
+  }
+
+  #menu {
+    display:inline;
+  }
+
+  #menu ul {
+    margin: auto;
+    padding: 0;
+    list-style: none;
+  }
+
+  #menu li {
+    margin: 0;
+    padding: 20px;
+    display:block;
+    font-weight: bold;
+  }
+
+
 }
