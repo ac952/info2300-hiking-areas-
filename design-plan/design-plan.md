@@ -13,14 +13,14 @@ I've selected my persona because her motivations and attitudes toward technology
 
 My sketches meet the need of my personal because it is simple and intuitive. Since Abby is risk averse and has low confidence about doing unfamiliar tasks, I decided to place the navigation bar at the top where is easily accessible. The layout of the page is also concise and have no hidden links.
 
-![](Scan.jpeg)
+![](Scan.jpg)
 
 ## 3. Wireframes
 
 [3. Author detailed wireframes that will become the design that you program for the final milestone.]
 
-![](Scan1.jpeg)
-![](Scan2.jpeg)
+![](Scan1.jpg)
+![](Scan2.jpg)
 
 ## 4. Coding Plan & Pseudocode
 
@@ -30,7 +30,7 @@ I will create 4 php pages (home.php, photos.php, trails.php, activities.php) and
 
 [Make sure you layout how to you plan to use PHP *includes*.]
 
-I will use php includes for the navigation bar, page array and footer. Each file would contain an id assigned to a variable (current_page) and the php includes(init.php) would contain the array of all the pages.In the body of my file, I would add php includes(header.php) for the navigation bar. In my header.php, I will create a for loop that returns the hyperlink of the page based on its assigned id. At the end of my pages, I will add php includes(footer.php) to include contact information in my footer. My photos.php file will also contain an array with jpeg files as the element.
+I will use php includes for the navigation bar, page array and footer. Each file would contain an id assigned to a variable (current_page) and the php includes(init.php) would contain the array of all the pages.In the body of my file, I would add php includes(header.php) for the navigation bar. In my header.php, I will create a for loop that returns the hyperlink of the page based on its assigned id. At the end of my pages, I will add php includes(footer.php) to include contact information in my footer. My photos.php file will also contain an array with jpg files as the element.
 
 [Write your pseudocode for your user defined function.]
 

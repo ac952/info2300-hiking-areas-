@@ -2,7 +2,7 @@
 <!-- call the array $pages -->
 <?php
 // website title
-// $title = "images/ithaca.jpeg";
+// $title = "images/ithaca.jpg";
 
 $pages = array(
   "index" => "HOME",

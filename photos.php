@@ -7,8 +7,8 @@
   $current_page_id = "photos";
 
   $photo_gallery = array(
-    "images/one.jpeg","images/two.jpeg","images/three.jpeg",
-    "images/four.jpeg","images/five.jpeg","images/six.jpeg"
+    "images/one.jpg","images/two.jpg","images/three.jpg",
+    "images/four.jpg","images/five.jpg","images/six.jpg"
   );
   // photo sources:
   // https://www.pinterest.com/pin/35184440809072186/?lp=true
