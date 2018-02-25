@@ -44,7 +44,7 @@
     <div id="firstAct">
       <!-- https://ithacatrails.org/#find-trails -->
       <!-- http://www.minitime.com/Taughannock_Falls_State_Park-Trumansburg-New_York-attraction -->
-      <img id ="hiking" src="images/hiking.png"/>
+      <img id ="hiking" src="images/hiking.jpeg"/>
       <h2>Hiking</h2>
       <p>Explore the beautiful scenery at Ithaca and the surrounding gorges. Click images below to learn more about the popular hiking trails.</p>
       <div class = "activityimg">
@@ -58,7 +58,7 @@
           </div>
           <div id="secondAct">
             <!-- https://rootsrated.com/stories/5-waterfall-hikes-around-san-francisco-perfect-winter-exploration -->
-            <img id="swimming" src="images/swimming.png"/>
+            <img id="swimming" src="images/swimming.jpeg"/>
             <h2>Swimming</h2>
             <p>Enjoy swimming in the lakes around Ithaca with family and friends. Click images below to learn about some of the locations/parks that allow this. </p>
             <div class = "activityimg">

@@ -20,7 +20,7 @@
   <div id="trailspace">
     <div id="trail1">
 
-      <img id="img1" src="images/six.png">
+      <img id="img1" src="images/six.jpeg">
       <div id="text1">
         <!-- sources: -->
         <!-- https://ithacatrails.org/site/Beebe%20Lake%20Natural%20Area -->
@@ -36,7 +36,7 @@
       </div>
 
       <div id="trail2">
-        <img id="img2" src="images/one.png">
+        <img id="img2" src="images/one.jpeg">
         <div id="text2">
           <!-- https://ithacatrails.org/site/Cascadilla%20Gorge%20Natural%20Area -->
           <h2>Cascadilla Gorge</h2>

@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <?php
   include("includes/init.php");
@@ -8,10 +7,9 @@
   $current_page_id = "photos";
 
   $photo_gallery = array(
-    "images/one.png","images/two.png","images/three.png",
-    "images/four.png","images/five.png","images/six.png"
+    "images/one.jpeg","images/two.jpeg","images/three.jpeg",
+    "images/four.jpeg","images/five.jpeg","images/six.jpeg"
   );
-
   // photo sources:
   // https://www.pinterest.com/pin/35184440809072186/?lp=true
   // http://nyfalls.com/waterfalls/buttermilk-falls-state-park/
@@ -40,6 +38,5 @@
     get_photo($a_photo);
   }
   ?>
-  <?php include("includes/footer.php"); ?>
 </body>
 </html>
