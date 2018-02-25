@@ -48,8 +48,9 @@ header {
 
 #photoFormat {
   width: 300px;
+  height: 300px;
   margin-top: 30px;
-  margin-left: 30px;
+  margin-left: 90px;
   margin-bottom: 30px;
   text-align: center;
 }
@@ -71,7 +72,7 @@ header {
 }
 
 #schedule {
-  margin-top: 50px;
+
   width: 30%;
   margin-left: 50px;
   float:left;
@@ -98,12 +99,59 @@ header {
   width:50%;
 }
 
-#img1, #img2{
-  width:300px;
-  height: 180px;
+#img1{
+  width:400px;
+  height: 300px;
+}
 
+#img2{
+  width:400px;
+  height: 380px;
 }
 
 #trailspace{
   margin-top: 60px;
+}
+
+#hiking, #swimming {
+  width: 360px;
+  height: 300px;
+}
+
+table{
+  border: 1px solid black;
+}
+
+th{
+  font-size: 20px;
+  text-align: left;
+}
+
+td{
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+
+.himages{
+  border-radius: 50%;
+  width: 80px;
+  margin-left: 10px;
+}
+
+.activityimg{
+  margin-bottom: 50px;
+}
+
+#indexbox{
+  background-color: white;
+
+  width: 250px;
+  opacity: 0.55;
+  padding-bottom:20px;
+  padding-left: 30px;
+  padding-right: 15px;
+  padding-top: 10px;
+  position: absolute;
+  top: 600px;
+  left: 100px;
 }

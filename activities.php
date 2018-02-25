@@ -42,30 +42,33 @@
  <!-- Add pictures and information below using floats and css (2/3 of the page)-->
  <div id="activity">
    <div id="firstAct">
-     <img src="images/one.png"/>
-     <p>Lorem Ipsum is simply dummy text of the printing and
-       typesetting industry. Lorem Ipsum has been the industry's
-        standard dummy text ever since the 1500s, when an unknown
-        printer took a galley of type and scrambled it to make a
-        type specimen book. It has survived not only five centuries,
-        but also the leap into electronic typesetting, remaining essentially
-        unchanged. It was popularised in the 1960s with the release of
-         Letraset sheets containing Lorem Ipsum passages, and more
-         recently with desktop publishing software like Aldus PageMaker
-         including versions of Lorem Ipsum.</p>
+     <!-- https://ithacatrails.org/#find-trails -->
+     <!-- http://www.minitime.com/Taughannock_Falls_State_Park-Trumansburg-New_York-attraction -->
+     <img id ="hiking" src="images/hiking.png"/>
+     <h2>Hiking</h2>
+     <p>Explore the beautiful scenery at Ithaca and the surrounding gorges. Click images below to learn more about the popular hiking trails.</p>
+     <div class = "activityimg">
+       <a href= "https://ithacatrails.org/site/Allen%20H.%20Treman%20State%20Marine%20Park" title = "Allen H. Treman State Marine Park">
+        <img class = "himages" src="images/allen.jpg"></a>
+       <a href = "https://ithacatrails.org/site/Black%20Diamond%20Trail" title = "Black Diamond Trail">
+       <img class = "himages" src="images/black.jpg"></a>
+       <a href="https://ithacatrails.org/site/Buttermilk%20Falls%20State%20Park" title = "Buttermilk Falls State Park">
+        <img class = "himages" src="images/buttermilk.jpg"></a>
+     </div>
    </div>
    <div id="secondAct">
-     <img src="images/one.png"/>
-     <p>Lorem Ipsum is simply dummy text of the printing and
-       typesetting industry. Lorem Ipsum has been the industry's
-        standard dummy text ever since the 1500s, when an unknown
-        printer took a galley of type and scrambled it to make a
-        type specimen book. It has survived not only five centuries,
-        but also the leap into electronic typesetting, remaining essentially
-        unchanged. It was popularised in the 1960s with the release of
-         Letraset sheets containing Lorem Ipsum passages, and more
-         recently with desktop publishing software like Aldus PageMaker
-         including versions of Lorem Ipsum.</p>
+     <!-- https://rootsrated.com/stories/5-waterfall-hikes-around-san-francisco-perfect-winter-exploration -->
+     <img id="swimming" src="images/swimming.png"/>
+     <h2>Swimming</h2>
+     <p>Enjoy swimming in the lakes around Ithaca with family and friends. Click images below to learn about some of the locations/parks that allow this. </p>
+     <div class = "activityimg">
+       <a href= "https://ithacatrails.org/site/Stewart%20Park" title = "Stewart Park">
+         <img class = "himages" src="images/stewart.jpg"></a>
+       <a href = "https://ithacatrails.org/site/Taughannock%20Falls%20State%20Park" title = "Taughannock Falls State Park">
+       <img class = "himages" src="images/taugh.jpg"></a>
+       <a href="https://ithacatrails.org/site/Beebe%20Lake%20Natural%20Area" title = "Beebe Lake Natural Area">
+       <img class = "himages" src="images/beebe.jpg"></a>
+     </div>
    </div>
    <div id="schedule">
      <table>
@@ -81,6 +84,5 @@
      </table>
    </div>
  </div>
-
 </body>
 </html>
